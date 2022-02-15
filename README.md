@@ -1,5 +1,5 @@
-# n-player combat evaluation model using trust mechanism
-This repo contains the test data of one match and source code for the simulation of the 'n-player combat evaluation model using trust mechanism'.
+# n-Player Stochastic Duel Game Model with Applied Deep Learning and Its Modern Implications
+This repo contains the test data of one match and source code for the simulation of the model proposed in 'n-Player Stochastic Duel Game Model with Applied Deep Learning and Its Modern Implications'.
 
 ## Steps to run the simulation
 - Open the `.ipynb` file with Jupyter Notebook (preferred) or any other python notebook.
